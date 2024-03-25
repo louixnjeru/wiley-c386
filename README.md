@@ -1,2 +1,3 @@
-# wiley-c386
-Wiley Edge training repo
+# Information
+
+This is a repository created to store code
